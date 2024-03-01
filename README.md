@@ -1,6 +1,5 @@
 # xrdp-rep
 
-Basierend auf dem letzten neutrinolabs xrdp devel xorgxrd devel sowie Nexarian fork und pulseaudio-module-xrdp devel 
-kann mit diesem Script auf Debian 12 die beiden gemerge und gebaut werden:
+Based on the latest development branches (devel) of Neutrinolabs xrdp, xorgxrdp, as well as the Nexarian fork and the Pulseaudio-Module-xrdp devel, this script allows merging and building both with added support for hardware acceleration (GPU) on Debian 12.
 
 https://gist.github.com/MAButz/1a6df0a58ecdbbf6f1439923e1b937e8
